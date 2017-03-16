@@ -1,0 +1,5 @@
+quasiCMP
+
+quasiCMP 1.0
+====================================
+- Initial commit
